@@ -5,8 +5,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A9B1D6&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer;Data+Science+%26+AI+Specialist;Building+Scalable+Architectures" alt="Typing Effect" />
 
   <p align="center">
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="www.linkedin.com/in/s-jeevan-b45444403"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://leetcode.com/u/jeev86399/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+    <a href="nnani86399@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 </div>
 ---
@@ -77,11 +78,8 @@ Highly focused Engineering student specializing in **Artificial Intelligence & D
 </div>
 
 ---
-<div align="center">
-  <h3>📊 Activity Overview</h3>
-</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeev86399&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeev86399&theme=tokyonight" alt="GitHub Streak" height="180" />
+  <h3>🤝 Let's Connect!</h3>
+  <p><em>"Architecting secure, data-driven solutions and bridging the gap between intelligent algorithms and interactive design. Let's connect and build the future."</em></p>
 </div>
