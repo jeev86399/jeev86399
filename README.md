@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello%20World%20👋&fontSize=55&animation=fadeIn" alt="Header" />
   
   <!-- Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Full-Stack+Developer;Building+Interactive+3D+Web+Graphics" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=A9B1D6&center=true&vCenter=true&width=700&lines=AI+%26+Data+Science+Engineer;Full-Stack+Developer;Building+Interactive+Web+Graphics" alt="Typing Effect" />
 </div>
 
 ---
